@@ -1,0 +1,144 @@
+.clear-fix {
+    clear: both;
+}
+
+.header-content {
+
+    height: 90vh;
+    background-image: url(../images/events-heavenly-header.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+
+
+.lyear {
+    height: 90vh;
+
+    width: 100%;
+    background-color: rgba(243, 27, 27, 0.5);
+    background-size: 100%;
+}
+
+.nav {
+    background: #414658;
+}
+
+nav i {
+    transition: all 0.5s;
+
+}
+
+.nav-link {
+    color: #fff !important;
+    transition: all 0.5s;
+    font-size: x-large;
+}
+
+.nav-link:hover,
+nav i:hover {
+    color: #D62E33 !important;
+}
+
+nav span {
+    font-size: 30px;
+    position: absolute;
+    top: 40%;
+    left: 1%;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+.nav {
+    /* left: -15%; */
+    /* height: 100vh ; */
+    display: none;
+    position: absolute;
+    overflow: auto;
+    z-index: 999999;
+}
+
+.Singers {
+    background-color: RGBA(214, 46, 51, 0.6);
+}
+
+#Details {
+    margin: 75px 0;
+    /* padding: 20px 0; */
+}
+
+#Details h2 {
+    color: #fff;
+    font-size: 26px;
+    cursor: pointer;
+
+}
+
+#Details p {
+    background: #ccc;
+    padding: 10px;
+    display: none;
+    cursor: pointer;
+
+}
+
+.Duration {
+    background-image: url(../images/invitation-2508607__340.jpg);
+    background-size: cover;
+
+
+}
+
+.duration-lyear {
+    background-color: RGBA(214, 46, 51, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+
+
+}
+
+.Duration h2 {
+    color: #fff;
+    border: 1px solid white;
+    padding: 50px 90px;
+    text-align: center;
+    /* background-color: #D62E33; */
+    margin: 40px;
+
+}
+
+.container {
+    width: 85%;
+}
+
+.social i {
+    border: 1px solid #414658;
+    padding: 10px;
+    transition: all 0.5s;
+    font-size: x-large;
+}
+
+.social i:hover {
+    background-color: #D62E33;
+}
+
+.contact i,
+.contact span {
+    margin: 15px 0;
+}
+
+.mail {
+    color: #D62E33;
+}
+
+footer h2,
+footer h5 {
+    font-weight: bold;
+}
+.CharacyerReamining{
+    color: #D62E33;
+}
